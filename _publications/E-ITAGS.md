@@ -3,7 +3,7 @@ title: "Learning and Optimizing the Efficacy of Spatio-Temporal Task Allocation 
 collection: publications
 category: preprints # conferences # manuscripts # preprints
 permalink: /publication/E-ITAGS
-excerpt: 'This paper is submitted to the International Journal of Robotics Research (IJRR) and is under review.'
+# excerpt: 'This paper is submitted to the International Journal of Robotics Research (IJRR) and is under review.'
 date: 2026-01-05
 venue: 'arXiv'
 # slidesurl: 'https://jinwoop.github.io/files/slides1.pdf'

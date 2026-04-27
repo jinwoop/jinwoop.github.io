@@ -47,7 +47,7 @@ Multi-Robot Systems (MRS) · Multi-Agent Systems (MAS)· Autonomous Systems · T
 ## Services {#services}
 ### Reviewer:
 - IEEE International Conference on Robotics and Automation (ICRA) 2026
-
+- IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS) 2026
 
 
 
