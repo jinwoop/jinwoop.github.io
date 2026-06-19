@@ -7,9 +7,7 @@ permalink: /publication/TRAITS
 excerpt: 'This work has been accepted as a full paper.'
 date: 2026-05-25
 venue: 'International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)'
-# slidesurl: 'https://jinwoop.github.io/files/slides1.pdf'
-# paperurl: 'https://ieeexplore.ieee.org/abstract/document/10341837'
-paperurl: 'https://arxiv.org/abs/2602.13866'
+paperurl: 'https://doi.org/10.65109/NGQQ5993'
 bibtexurl: 'https://jinwoop.github.io/files/bib/TRAITS.bib'
 citation: 'Jinwoo Park, Harish Ravichandar, and Seth Hutchinson. 2026. Modeling and Optimizing the Provisioning of Exhaustible Capabilities for Simultaneous Task Allocation and Scheduling. In Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026), Paphos,Cyprus, May 25 – 29, 2026, IFAAMAS, 9 pages.'
 ---
