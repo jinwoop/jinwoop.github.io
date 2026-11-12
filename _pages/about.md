@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- ## About Me -->
-Hello! My name is Jinwoo Park, and I am currently a Postdoctoral Research Associate at [Northeastern University](https://www.northeastern.edu/). I hold a Ph.D. in Robotics from the Georgia Institute of Technology, where I was advised by [Dr. Seth Hutchinson](https://scholar.google.com/citations?user=-JPZ21IAAAAJ&hl=en). I was also an honorary member of [STAR Lab](https://star-lab.cc.gatech.edu/) at Georgia Tech, directed by [Dr. Harish Ravichandar](https://scholar.google.com/citations?user=d2HP6SMAAAAJ&hl=en).
+Hello! My name is Jinwoo Park, and I am currently a Robotics Software Engineer at [Mujin](https://mujin-corp.com/). Previously, I was a Postdoctoral Research Associate at Northeastern University. I hold a Ph.D. in Robotics from the Georgia Institute of Technology, where I was advised by [Dr. Seth Hutchinson](https://scholar.google.com/citations?user=-JPZ21IAAAAJ&hl=en). I was also an honorary member of [STAR Lab](https://star-lab.cc.gatech.edu/) at Georgia Tech, directed by [Dr. Harish Ravichandar](https://scholar.google.com/citations?user=d2HP6SMAAAAJ&hl=en).
 
 My research focuses on heterogeneous multi-robot systems, with particular interests in task allocation, scheduling, and motion planning. I am especially motivated by problems that bridge rigorous optimization with real-world robotic execution.
 
@@ -17,9 +17,6 @@ Beyond academia, I am a roboticist and aerospace engineer with hands-on industry
 I hold an M.S. in Computer Science from Georgia Tech, an M.S. in Aeronautics and Astronautics from Stanford University, and a B.S.E. in Aerospace Engineering from the University of Michigan (*summa cum laude*).
 
 Outside of work, I am an aviation enthusiast and licensed private pilot, and I enjoy flight and sim racing in my free time.
-
-I am currently **open to new opportunities**—please feel free to reach out if you’d like to connect or collaborate.
-
 
 ## Research Interests
 Multi-Robot Systems (MRS) · Multi-Agent Systems (MAS)· Autonomous Systems · Task Allocation · Scheduling · Decision Making · Motion Planning · UAV
@@ -46,7 +43,7 @@ Multi-Robot Systems (MRS) · Multi-Agent Systems (MAS)· Autonomous Systems · T
 
 ## Services {#services}
 ### Reviewer:
-- IEEE International Conference on Robotics and Automation (ICRA) 2026
+- IEEE International Conference on Robotics and Automation (ICRA) 2026, 2027
 - IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS) 2026
 
 

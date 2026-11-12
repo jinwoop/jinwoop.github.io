@@ -29,7 +29,8 @@ author:
   pronouns         : # "he/him" # example: "she/her"  
   # bio              : "Roboticist · Computer Scientist · Aerospace Engineer · Pilot"
   bio              : "Roboticist · Aerospace Engineer · Pilot
-                      <br><br>Postdoc (Northeastern)
+                      <br><br>Robotics Software Engineer (Mujin)
+                      <br>Postdoc (Northeastern)
                       <br><br>Ph.D. in Robotics (GT),
                       <br>M.S. in Computer Science (GT)
                       <br>M.S. in Aero & Astro (Stanford)
@@ -41,7 +42,7 @@ author:
                       #<br>M.S. in Aero & Astro (Stanford)
                       #<br>B.S.E in Aerospace Engineering (UMich)"
   location         : "Atlanta, GA"
-  employer         : "Northeastern University"
+  employer         : "Mujin US"
   #uri              : # URL
   email            : "jinwoo.roger.park@gmail.com" 
 
